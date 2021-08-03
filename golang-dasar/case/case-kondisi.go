@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+//task bilangan genap dan ganjil
+
 func main(){
 	var angka = 4
 	if angka % 2 == 0   {
