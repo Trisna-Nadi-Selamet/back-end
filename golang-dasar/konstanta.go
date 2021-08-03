@@ -1,6 +1,6 @@
 package main
 
-import "fmt"
+/*import "fmt"
 
 //mengenal konstanta atau tetapan adalah suatu nilai tetap
 func main(){
@@ -8,4 +8,4 @@ func main(){
 
 	fmt.Printf("%d",x)
 
-}
+}*/
