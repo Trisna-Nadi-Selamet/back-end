@@ -25,9 +25,7 @@ func tampilkan_angka()int{
 func tampilkan_hasil(x int,y int)int{
 	var z = x + y
 	return z
-
 }
-
 //menampilkan pengembalian multi fungsi pada parameter pada golang
 func bilangan_hasil(a int, b int)(int,int){ //syarat penulisan untuk pengembalian multi fungsi
 	var c = a + b;
