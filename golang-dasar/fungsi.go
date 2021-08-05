@@ -1,8 +1,6 @@
 package main
 
-import "fmt"
-
-func main(){
+/*func main(){
 
     var num1,num2 = bilangan_hasil(20,5)
 	fmt.Println(tampilkan_pesan())
@@ -31,4 +29,4 @@ func bilangan_hasil(a int, b int)(int,int){ //syarat penulisan untuk pengembalia
 	var c = a + b;
 	var d = a * b;
 	return c,d
-}
+}*/
